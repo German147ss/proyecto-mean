@@ -1,0 +1,413 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"display"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"fecha",
+				"fecha_ini"
+			],
+			[
+				"fec",
+				"fecha_ini"
+			],
+			[
+				"id",
+				"id_reference"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"consulta",
+				"consulta1"
+			],
+			[
+				"mysqli_fetc",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"a",
+				"ancho_og2"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"co",
+				"contenedor"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"tex",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/cygwin64/home/Jose/.bash_profile",
+			"settings":
+			{
+				"buffer_size": 1555,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"typescri",
+				"Set Syntax: AppleScript"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 118.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Jose/Desktop/GoldCoin-1/public/template/footer.html",
+		"/C/Users/Jose/Desktop/GoldCoin-1/new-index/index-campera.php",
+		"/C/Users/Jose/Desktop/GoldCoin-1/index.php",
+		"/C/Users/Jose/Desktop/GoldCoin-1/new-index/index.php",
+		"/C/cygwin64/home/Jose/.bash_profile",
+		"/C/Users/Jose/Desktop/GoldCoin-1/new-index/conexion.php",
+		"/C/Users/Jose/Desktop/GoldCoin-1/campera/producto_contador.php",
+		"/C/Users/Jose/Desktop/GoldCoin-1/admin/insertar_newletter.php",
+		"/C/Users/Jose/Desktop/GoldCoin-1/admin/insertar_campera.php",
+		"/C/Users/Jose/Desktop/GoldCoin-1/admin/admin.php",
+		"/C/Users/Jose/Desktop/menu.html",
+		"/C/Users/Jose/Desktop/login/styles-form.css",
+		"/C/Users/Jose/Desktop/momos varios/angylar/package/index-bs3.html",
+		"/C/Users/Jose/Desktop/momos varios/angylar/package/index.html",
+		"/C/Users/Jose/Desktop/login/loggin.html",
+		"/C/Users/Jose/Desktop/Angular/proyecto-angular/src/app/app.component.html",
+		"/C/Users/Jose/Desktop/Angular/proyecto-angular/src/app/app.component.ts",
+		"/C/Users/Jose/Desktop/Angular/proyecto-angular/src/index.html",
+		"/C/Users/Jose/Desktop/Angular/proyecto-angular/src/app/inicio-sesion/inicio-sesion.component.html",
+		"/C/Users/Jose/Desktop/Angular/proyecto-angular/src/app/inicio-sesion/inicio-sesion.component.ts",
+		"/C/xampp/htdocs/GoldCoin-1/campera/campera-prod.php",
+		"/C/xampp/htdocs/GoldCoin-1/admin/insertar_campera.php",
+		"/C/xampp/htdocs/GoldCoin-1/email-prueba.php",
+		"/C/xampp/htdocs/GoldCoin-1/campera/productos.php",
+		"/C/Users/Jose/Desktop/loggin.php",
+		"/C/xampp/htdocs/GoldCoin-1/campera/producto_contador.php",
+		"/C/xampp/htdocs/GoldCoin-1/insert_registro.php",
+		"/C/Users/Jose/Desktop/insertar_slider.php",
+		"/C/Users/Jose/Desktop/admin.php",
+		"/C/Users/Jose/Desktop/admin_slider.php",
+		"/C/Users/Jose/Desktop/comprueba_loggin.php",
+		"/C/xampp/htdocs/GoldCoin-1/admin/prueba.php",
+		"/C/xampp/htdocs/GoldCoin-1/admin/admin_newletter.php",
+		"/C/xampp/htdocs/GoldCoin-1/admin/insertar_newletter.php",
+		"/C/xampp/htdocs/GoldCoin-2/admin/index.css",
+		"/C/Users/Jose/Desktop/GoldCoin-1/admin/admin_usuarios.php",
+		"/C/xampp/htdocs/GoldCoin-1/admin/resize.php",
+		"/C/xampp/htdocs/GoldCoin-1/admin/insertar_slider.php",
+		"/C/xampp/htdocs/GoldCoin-1/admin/slider.php",
+		"/C/xampp/htdocs/GoldCoin-1/slider.php",
+		"/C/xampp/htdocs/GoldCoin-1/insertar_slider.php",
+		"/C/xampp/htdocs/GoldCoin-1/Correo (2).html",
+		"/C/Users/Jose/Desktop/GoldCoin-1/correo.html",
+		"/C/Users/Jose/Desktop/conexion.php",
+		"/C/xampp/htdocs/GoldCoin-2/admin/admin-promociones.php",
+		"/C/Users/Jose/Desktop/GoldCoin-1/insert_registro.php",
+		"/C/xampp/htdocs/lipsick01/insertartinturas.php",
+		"/C/xampp/htdocs/GoldCoin-2/admin/filtrador-cat.html",
+		"/C/xampp/htdocs/GoldCoin-2/public/template/header.php",
+		"/C/xampp/htdocs/GoldCoin-2/public/template/body.html",
+		"/C/xampp/htdocs/GoldCoin-2/campera/conexion.php",
+		"/C/xampp/htdocs/GoldCoin-2/campera/producto_contador.php",
+		"/C/xampp/htdocs/GoldCoin-2/landing-page/producto_contador.php",
+		"/C/xampp/htdocs/GoldCoin-2/campera/campera-index.php",
+		"/C/xampp/htdocs/GoldCoin-2/index.php",
+		"/C/xampp/htdocs/GoldCoin-2/campera/index.php",
+		"/C/xampp/htdocs/GoldCoin-2/landing-page/campera-index.php",
+		"/C/xampp/htdocs/GoldCoin-2/camperas.php",
+		"/C/xampp/htdocs/GoldCoin-1/index.php",
+		"/C/xampp/htdocs/GoldCoin-1/public/template/header.php",
+		"/C/Users/Jose/Desktop/GoldCoin-1/template/header.php",
+		"/C/Users/Jose/Desktop/angylar/model.html",
+		"/C/Users/Jose/Desktop/angylar/index.html",
+		"/C/Users/Jose/Desktop/angylar/angular.min.js",
+		"/C/xampp/htdocs/loggin_20-4-17/inicio.php",
+		"/C/xampp/htdocs/loggin_20-4-17/inicio_final.php",
+		"/C/Users/Jose/Desktop/Proyecto/asd.html",
+		"/C/xampp/htdocs/playstore.php",
+		"/C/xampp/htdocs/ADMIN.PHP.php",
+		"/C/xampp/htdocs/favicon.ico",
+		"/C/xampp/htdocs/consulta.php",
+		"/C/Users/Jose/Desktop/bd/ADMIN.PHP",
+		"/C/Users/Jose/Desktop/bd/estilo-admin.css",
+		"/C/Users/Jose/Desktop/bd/consulta.php",
+		"/C/Users/Jose/Desktop/bd/conexion.php",
+		"/E/Diseño w/PagWeb2.html",
+		"/E/Diseño w/PagWeb1.html",
+		"/E/Diseño w/PagWeb5.html",
+		"/E/Diseño w/PagWeb4.html",
+		"/E/Diseño w/PagWeb3.html",
+		"/E/Diseño w/DiseñoWeb2.html",
+		"/E/Diseño w/DiseñoWeb3.html",
+		"/E/Diseño w/DiseñoWeb.html",
+		"/C/Users/Jose/Desktop/PAG/index.html",
+		"/E/Pagina Web FINAL!!!/DiseñoWeb.html",
+		"/C/Users/Jose/Desktop/PAG/diseño web/diseño3.html",
+		"/C/Users/Jose/Desktop/PAG/diseño web/diseño2.html",
+		"/E/Pagina Web FINAL!!!/DiseñoWeb3.html",
+		"/E/Pagina Web FINAL!!!/PagWeb1.html",
+		"/C/Users/Jose/Desktop/PAG/diseño web/diseño1.html",
+		"/E/PagWeb - copia/PagWeb1.html",
+		"/E/PagWeb - copia/PagWeb2.html",
+		"/E/PagWeb - copia/PagWeb3.html",
+		"/E/PagWeb - copia/PagWeb5.html",
+		"/C/Users/Jose/Desktop/Apunte diseño web/diseno_web_2.pdf",
+		"/E/PagWeb - copia/PagWeb4.html",
+		"/E/PagWeb - copia/css/elnavsakowea.css",
+		"/E/PagWeb - copia/css/estilos.css",
+		"/E/PagWeb - copia/PieDePaginoPRRO.css",
+		"/C/Users/Jose/Desktop/TP/cuaderno4.html",
+		"/C/Users/Jose/Desktop/TP/cuaderno5.html",
+		"/E/PagWeb - copia/PagKa.html",
+		"/C/Users/Jose/Desktop/TP/cuaderno3.html",
+		"/C/Users/Jose/Desktop/PagWeb - copia/PagWeb1.html",
+		"/C/Users/Jose/Desktop/TP/cuaderno2.html",
+		"/C/Users/Jose/Desktop/PagWeb - copia/css/estilos.css",
+		"/C/Users/Jose/Desktop/PagWeb - copia/css/elnavsakowea.css",
+		"/C/Users/Jose/Desktop/PagWeb - copia/PagWeb2.html",
+		"/C/Users/Jose/Desktop/PagWeb/PieDePaginoPRRO.css",
+		"/C/Users/Jose/Desktop/TP/footer.css",
+		"/C/Users/Jose/Desktop/TP/todo.css",
+		"/C/Users/Jose/Desktop/PagWeb/PagWeb1.html",
+		"/C/Users/Jose/Desktop/PagWeb/css/estilos.css",
+		"/C/Users/Jose/Desktop/TP/nav.css",
+		"/C/Users/Jose/Desktop/TP/cuaderno1.html",
+		"/E/estilos.css",
+		"/C/Users/Jose/Desktop/German/PagWeb/PagWeb1.html",
+		"/E/akita.php",
+		"/E/asdsd.php",
+		"/E/JavaApplication1.java",
+		"/E/Diseño web/HTML-CSS/TP/cuaderno1.html",
+		"/C/Users/Jose/Desktop/PAGFINAL.html",
+		"/C/Windows/system32/http",
+		"/D/Procesos industriales/PorFavorNoMamen.php",
+		"/C/Users/Jose/Desktop/German/trabajo.htm",
+		"/C/Users/Jose/Desktop/PagWeb/estilos.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"</td-data-table>",
+			"remem",
+			"focus",
+			"input",
+			"focus",
+			"white",
+			"remember",
+			"#input_register::placeholder {",
+			"background-color",
+			"backgroud-color",
+			"#content",
+			"container",
+			"content",
+			"register_btn",
+			"register_btn1",
+			"#register_btn",
+			".caja-rem:checked + .label-log",
+			"logos-cont",
+			"}\n",
+			"{\n",
+			"size",
+			"\n",
+			"?>\n",
+			"computadoras",
+			"\">",
+			"><",
+			";\n",
+			"url"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/cygwin64/home/Jose/.bash_profile",
+					"settings":
+					{
+						"buffer_size": 1555,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1555,
+								1555
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 165.0,
+	"status_bar_visible": true
+}
